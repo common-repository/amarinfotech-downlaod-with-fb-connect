@@ -1,0 +1,80 @@
+
+.fbc_connect_button_area {
+  float: left;
+  margin-top: 6px;
+  padding-top: 6px;
+  margin-left: 9px;
+  padding-left: 9px;
+}
+
+.fbc_profile_pic {
+  float: left;
+  padding:10px 17px 8px 5px;
+  border-bottom-left: 1px solid #666;
+}
+
+
+.fbc_profile_header {
+  text-align: left;
+  margin: 8px 0px 0px 18px;
+  background: white;
+  width: 80%;
+  height:75px;
+}
+
+.fbc_loginstate_top {
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+/***********************  Rahul  **********************/
+.facebook-download {
+    background-image: url("images/facebook_box_bg.jpg");	
+    background-repeat: no-repeat;
+    height: 91px;
+    width: 686px;
+	float:left;
+	padding-bottom:30px;
+}
+.facebook-download table,tbody,th,td
+{
+	float:left;
+	padding:0;
+	margin:0;	
+	vertical-align:top !important;
+}
+
+.facebook-download tr
+{
+	float: left;
+    padding-left: 28px !important;
+    vertical-align: top !important;
+    width: 100%;
+}
+
+.facebook-download .noauth td.image {
+    padding-top: 23px !important;
+	/*padding-left:24px !important;*/
+}
+.facebook-download .noauth td {
+    border: medium none !important;
+    height: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+
+.fbc_profile
+{
+	background-image: url("http://www.excellencemagentoblog.com/wp-content/themes/excelltheme/images/facebook_box_bg.jpg") !important;	
+	background-repeat: no-repeat;
+	height: 91px;
+	width: 686px;
+	float:left;
+}
+
+.clear
+{
+	clear:both;	
+}
